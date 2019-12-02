@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+    <bean name="person" class="com.dyl.bean.Person">
+        <property name="name" value="123"></property>
+    </bean>
+    
+    
+</beans>
